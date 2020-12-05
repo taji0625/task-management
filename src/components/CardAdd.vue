@@ -7,12 +7,12 @@
       v-model="body"
       type="text"
       class="text-input"
-      placeholder="Add new card"
+      placeholder="タスクを記入"
       @focusin="startEditing"
       @focusout="finishEditing"
     />
     <button type="submit" class="add-button" v-if="isEditing || bodyExists">
-      Add
+      タスクを追加
     </button>
   </form>
 </template>
