@@ -1,24 +1,22 @@
-# task-management
+# Task-Management
+タスクを管理するツールです。  
+自分のタスクを可視化し、整理するために制作しました。
 
-## Project setup
-```
-npm install
-```
+# URL
+https://taji0625.github.io/task-management
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# 使用技術
+* HTML  
+* CSS
+* JavaScript
+* Vue.js (Vue CLI) 4.5.9
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# 機能一覧
+* リスト追加機能
+* リスト削除機能
+* カード追加機能
+* カード削除機能
+* ドラッグ&ドロップ機能
+  - リストの移動
+  - カードの移動
+* タスクカウント機能
