@@ -97,7 +97,7 @@ main {
 }
 
 .list {
-  margin: 0 5px auto;
+  margin: 0 15px auto;
   position: relative;
   display: inline-block;
   flex-direction: column;
