@@ -4,7 +4,7 @@
       v-model="title"
       type="text"
       class="text-input"
-      placeholder="Add new list"
+      placeholder="リストを追加"
       @focusin="startEditing"
       @focusout="finishEditing"
     >
