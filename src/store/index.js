@@ -12,19 +12,21 @@ const store = new Vuex.Store({
       {
         title: 'これからやること',
         cards: [
-          { body: 'English' },
-          { body: 'Mathematics' },
+          { body: 'SQL学習' },
+          { body: 'PHP学習' },
         ]
       },
       {
         title: '今やっていること',
         cards: [
-          { body: 'Science' }
+          { body: 'Vue.js学習' }
         ]
       },
       {
         title: '完了',
-        cards: []
+        cards: [
+          { body: 'Ruby学習' }
+        ]
       }
     ],
   },
