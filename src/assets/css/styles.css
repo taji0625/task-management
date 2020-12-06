@@ -58,7 +58,7 @@ main {
   color: #242424;
   cursor: pointer;
   overflow: overlay;
-  box-shadow: 0 0 7px rgb(0, 4, 8) ;
+  box-shadow: 0 0 7px rgb(0, 4, 8);
 }
 
 .text-input:focus {
@@ -76,6 +76,7 @@ main {
   font-weight: 700;
   font-size: 18px;
   color: #fff;
+  box-shadow: 0 0 7px rgb(0, 4, 8);
 }
 
 .add-button:hover {
