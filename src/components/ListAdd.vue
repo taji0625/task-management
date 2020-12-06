@@ -9,7 +9,7 @@
       @focusout="finishEditing"
     >
     <button type="submit" class="add-button" v-if="isEditing || titleExists">
-      Add
+      リストを追加
     </button>
   </form>
 </template>
